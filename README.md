@@ -1,4 +1,4 @@
-# [prashanttripathi.ga](http://prashanttripathi.ga)
+# [ptpashanttripathi.in](http://prashanttripathi.ga)
 It is personal website of me (Pt. Prashant Triapthi) for showing my skills and works an to build my online presence.I am a student of 2nd year Student of B.tech (CSE) at St. Aloysius Institute Of Technology, Jabalpur (Madhya Pradesh), India. 
 "keywords : Pt. Prashant Tripathi , Prashant Triapthi ,Pandit, Prashant Tripathi , St. Aloysius institute of technology , web developer, software engineer, Astrology, Personal website
 
