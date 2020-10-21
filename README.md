@@ -1,4 +1,4 @@
-<p align="center"><a href="https://ptprashanttripathi.github.io/simple-portfolio/"><img alt="" src="https://repository-images.githubusercontent.com/120343815/13620300-13b9-11eb-912c-f70eb27b1691" width="300vw"/></a></p>
+<p align="center"><a href="https://ptprashanttripathi.github.io/simple-portfolio/"><img alt="" src="https://repository-images.githubusercontent.com/120343815/13620300-13b9-11eb-912c-f70eb27b1691" width="780vw"/></a></p>
 <p align="center">
 	<a href="https://github.com/PtPrashantTripathi"><img alt="Devloper" src="https://img.shields.io/badge/Devloper-Pt.%20Prashant%20Tripathi-Success.svg?style=flat-square"/></a>
 	<a href="https://github.com/PtPrashantTripathi/simple-portfolio/LICENSE"><img alt="License" src="https://img.shields.io/github/license/PtPrashantTripathi/simple-portfolio.svg?style=flat-square"/></a>
