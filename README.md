@@ -30,7 +30,7 @@ It was my first portfolio website, which i made during my college 1st year, to s
 <a href="https://www.paypal.me/ptprashanttripathi"><img src="https://ionicabizau.github.io/badges/paypal.svg" alt="sponsor github profile"/>
 </a>
 <a href="https://ptprashanttripathi.github.io?pa=pt1998@ybl&pn=PtPrashantTripathi">
-<img src="https://github.com/PtPrashantTripathi/simple-portfolio/blob/main/img/linkpebadge.svg" alt="tweet"/>
+<img src="https://github.com/PtPrashantTripathi/linkpe/blob/main/img/linkpebadge.svg" alt="tweet"/>
 </a>
 </p>
 <p align="left">
